@@ -1,9 +1,5 @@
 # TMSS-Git-Lab
 
-*italic* or _italic_.
-
-**bold** or __bold__.
-
-**bold _bold & italic_**.
-
-~~Scratch this.~~
+..* Readme modification
+1. la;kjfdla;sk
+2. ;lakjsdf
