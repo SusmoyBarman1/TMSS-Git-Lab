@@ -1,11 +1,9 @@
 # TMSS-Git-Lab
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+*italic* or _italic_.
 
-susmoy
-------
+**bold** or __bold__.
+
+**bold _bold & italic_**.
+
+~~Scratch this.~~
